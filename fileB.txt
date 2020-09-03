@@ -1,3 +1,3 @@
 Hello
-My name is Brian,
-and I like to learn git
+My name is Brian R. Fishman,
+and I like to learn git and python
