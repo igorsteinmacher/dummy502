@@ -1,2 +1,3 @@
 Hello
-My name is Brian
+My name is Brian,
+and I like to learn git
