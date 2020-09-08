@@ -1,9 +1,9 @@
 Line 1
-   * Line 1.1
+   * Line 1.a
 Line 2
-   * Line 2.1
+   * Line 2.a
 Line 3
-   * Line 3.b
+   * Line 3.a
 Line 4
    * Line 4.a
 Line 5
