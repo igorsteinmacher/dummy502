@@ -3,5 +3,3 @@ My name is Brian M Fishman,
 and I like to learn git but not python
 My name is Brian R. Fishman,
 and I like to learn git and python, but only v2.7
-
-Testing
